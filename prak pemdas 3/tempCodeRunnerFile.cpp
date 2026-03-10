@@ -1,1 +1,1 @@
-Obesitas
+float berat, tinggi, bmi
